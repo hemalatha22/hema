@@ -23,21 +23,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Hemalatha_profile_pic.png"
-  name             : "Hemaltha Munusamy"
+  name             : "Hemaltha M"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chennai, India"
   employer         : "Anna University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hemam@annauniv/edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=FTcANHQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1048-3846"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Hemalatha-Munusamy-2"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57213376051"
 
